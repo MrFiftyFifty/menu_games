@@ -30,4 +30,4 @@ npm link
 
 ## Геометрическая прогрессия:
 
-[![asciicast](https://asciinema.org/a/643964.svg)](https://asciinema.org/a/643964)
+[![asciicast](https://asciinema.org/a/644048.svg)](https://asciinema.org/a/644048)
